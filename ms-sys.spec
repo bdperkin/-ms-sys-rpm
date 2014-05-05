@@ -24,6 +24,7 @@ written.
 %setup -q 
 
 %build
+%{__mkdir} dep
 %{__make} \
     CC="${CC:-%{__cc}}" \
     EXTRA_CFLAGS="%{optflags} -fasm" \

@@ -1,6 +1,6 @@
 Name:           ms-sys
 Version:        2.1.3
-Release:        1%{?dist}
+Release:        0%{?dist}
 Summary:        Create DOS/MS-compatible boot records
 
 Group:          Applications/System

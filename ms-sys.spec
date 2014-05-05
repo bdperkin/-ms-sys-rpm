@@ -54,6 +54,18 @@ mv CHANGELOG.new CHANGELOG
 
 
 %changelog
+* Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.4-1
+- Version 2.1.4 and source is now .tar.gz instead of .tgz.
+  (bperkins@redhat.com)
+- 3/10  2009 2.1.4    Win 7 and Vista MBR added                     Added
+  copyright notice to source files (bperkins@redhat.com)
+
+* Mon May 05 2014 Brandon Perkins <bperkins@redhat.com>
+- Version 2.1.4 and source is now .tar.gz instead of .tgz.
+  (bperkins@redhat.com)
+- 3/10  2009 2.1.4    Win 7 and Vista MBR added                     Added
+  copyright notice to source files (bperkins@redhat.com)
+
 * Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.3-3
 - new package built with tito
 

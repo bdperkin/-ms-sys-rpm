@@ -54,6 +54,11 @@ mv CHANGELOG.new CHANGELOG
 
 
 %changelog
+* Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.5-1
+- Version 2.1.5. (bperkins@redhat.com)
+- 14/3  2010 2.1.5    Added support for manually setting the number of heads
+  in BPB (bperkins@redhat.com)
+
 * Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.4-1
 - Version 2.1.4 and source is now .tar.gz instead of .tgz.
   (bperkins@redhat.com)

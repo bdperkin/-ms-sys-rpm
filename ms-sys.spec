@@ -1,12 +1,12 @@
 Name:           ms-sys
-Version:        2.1.3
-Release:        3%{?dist}
+Version:        2.1.4
+Release:        1%{?dist}
 Summary:        Create DOS/MS-compatible boot records
 
 Group:          Applications/System
 License:        GPLv2
 URL:            http://ms-sys.sourceforge.net/
-Source0:        http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tgz
+Source0:        http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 BuildRequires: bash, gettext

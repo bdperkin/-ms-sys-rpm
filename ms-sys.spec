@@ -1,6 +1,6 @@
 Name:           ms-sys
-Version:        2.1.3
-Release:        0%{?dist}
+Version:        2.1.4
+Release:        1%{?dist}
 Summary:        Create DOS/MS-compatible boot records
 
 Group:          Applications/System
@@ -54,6 +54,9 @@ mv CHANGELOG.new CHANGELOG
 
 
 %changelog
+* Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.4-1
+- new package built with tito
+
 * Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.4-1
 - new package built with tito
 

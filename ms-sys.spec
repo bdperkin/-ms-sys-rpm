@@ -54,6 +54,11 @@ mv CHANGELOG.new CHANGELOG
 
 
 %changelog
+* Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.2.1-1
+- Version 2.2.1. (bperkins@redhat.com)
+- 22/1  2011 2.2.1    Modified Makefile to recreate directories lost by CVS
+  Now also doing a sanity check before only writing BPB (bperkins@redhat.com)
+
 * Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.2.0-1
 - Version 2.2.0. (bperkins@redhat.com)
 - 13/5  2010 2.2.0    Added support for large disk image files. This version

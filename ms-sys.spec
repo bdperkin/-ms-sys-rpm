@@ -54,6 +54,12 @@ mv CHANGELOG.new CHANGELOG
 
 
 %changelog
+* Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.2.0-1
+- Version 2.2.0. (bperkins@redhat.com)
+- 13/5  2010 2.2.0    Added support for large disk image files. This version
+  is now considered stable as the BPB problem has had a
+  workaround since version 2.1.5. (bperkins@redhat.com)
+
 * Mon May 05 2014 Brandon Perkins <bperkins@redhat.com> 2.1.5-1
 - Version 2.1.5. (bperkins@redhat.com)
 - 14/3  2010 2.1.5    Added support for manually setting the number of heads
